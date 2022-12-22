@@ -1,0 +1,22 @@
+* {background-color: #F9F9F9;}
+.container .row .col-6 img{width: 500px; height: 540px;}
+.container .row .col-6 .imgd img{width:200px; height: auto;}
+
+header ul li{
+    list-style: none;
+    display: inline-block;
+    background-color: white;
+    margin: auto;}
+header a:link{color: black;}
+.nav{
+display: flex;
+justify-content: space-between;
+align-items: center;
+width: 80%;
+margin: auto;
+padding: 20px;}
+body{ background-color: #F9F9F9;}
+header{background-color: white;}
+header ul li .btn{background-color: #75BF7A; color: white;}
+header .nav {border: 50px; border-color: black;}
+.container .row2{background-color: #75BF7A; width:1100px;height: 150px;border-radius: 15px;}
